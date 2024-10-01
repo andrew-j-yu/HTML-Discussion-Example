@@ -1,3 +1,8 @@
 h1{
     color: red
 }
+
+.result{
+    margin-top: 20px; 
+    font-weight: bold
+}
