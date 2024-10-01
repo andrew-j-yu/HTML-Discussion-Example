@@ -10,7 +10,8 @@ h2{
 }
 
 #visitors{
-    text-align: center
+    text-align: center;
+    margin: 20px auto;
 }
 
 form {
