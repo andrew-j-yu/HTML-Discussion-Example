@@ -15,18 +15,18 @@ h2{
 }
 
 form {
-    margin: 20px auto;            /* Center the form horizontally */
-    padding: 20px;                /* Add padding inside the form */
-    background-color: #f9f9f9;    /* Light gray background */
-    border: 1px solid #ccc;       /* Light gray border */
-    border-radius: 5px;           /* Rounded corners */
-    max-width: 400px;             /* Max width for the form */
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+    margin: 20px auto;     
+    padding: 20px;   
+    background-color: #f9f9f9;  
+    border: 1px solid #ccc;     
+    border-radius: 5px;    
+    max-width: 400px; 
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 label {
-    display: block;                /* Make labels block elements */
-    margin-bottom: 5px;           /* Space between label and input */
+    display: block; 
+    margin-bottom: 5px;
 }
 
 #result{
