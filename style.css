@@ -32,4 +32,6 @@ label {
 #result{
     margin-top: 20px; 
     font-weight: bold;
+    text-align: center;
+    margin: 20px auto
 }
